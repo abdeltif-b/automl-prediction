@@ -22,6 +22,9 @@ Our project follows this workflow to achieve accurate vessel traffic flow predic
 
 6. **Performance Evaluation:** We evaluate the fine-tuned models using various metrics such as Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), and more to assess their accuracy.
 
+## Getting Started
+You can access the [notebook in this repository](https://github.com/abdeltif-b/automl-prediction/blob/master/notebook.ipynb) for reference.
+ 
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to us:
